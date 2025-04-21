@@ -1,0 +1,9 @@
+url,is_phishing
+https://www.paypal.com/signin,0
+https://www.amazon.com/login,0
+https://www.google.com,0
+https://www.microsoft.com/account,0
+https://www.paypal-support.com/login,1
+https://secure-paypal-login.com/signin,1
+https://amazon-account-verify.com,1
+https://microsoft-support-login.com,1

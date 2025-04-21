@@ -1,0 +1,18 @@
+Models trained on: 2025-04-12 10:03:26.573634
+Dataset size: 21154
+Training set size: 16923
+Test set size: 4231
+
+=== PHISHING MODEL METRICS ===
+Accuracy: 0.9998
+True Positive Rate: 0.9957
+False Positive Rate: 0.0000
+True Negative Rate: 1.0000
+False Negative Rate: 0.0043
+Confusion Matrix: TN=4000, FP=0, FN=1, TP=230
+
+=== CATEGORY MODEL METRICS ===
+Accuracy: 0.9986
+
+=== COMBINED MODEL METRICS ===
+Accuracy: 0.9993
